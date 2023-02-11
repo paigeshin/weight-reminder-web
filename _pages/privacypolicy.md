@@ -5,63 +5,54 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+Sept 12, 2014
 
-# Privacy Policy
+# Paige Software Co. MOBILE PRIVACY POLICY
+By using this application, or any products, services, sites, features or functionality associated therewith (collectively, the “Application”), you agree to be bound by this Paige Software Co. Mobile Privacy Policy (“Mobile Privacy Policy”) in addition to such other Paige Software Co. privacy policies or terms of use made available to you in connection with the Application or any web-based version of the Application. Certain features of the Application may require you to be a registered member or provide personal information.
 
-## Privacy Policy
-Paige Software built mobile applications as free, freemium, ad-supported app. This SERVICE is provided by Paige Software and is intended for use as is.
-
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
-
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Paige Software unless otherwise defined in this Privacy Policy.
+This Mobile Privacy Policy describes how the Application collects, uses, shares and manages your information.
 
 <br>
 
-## Information Collection and Use
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way
+## I.  Data Collection and Use.
+We may collect and store some or all of the following information you make available to us:
 
-The app does use third party services that may collect information used to identify you.
+- Information you provide when you contact us for help
+
+In addition, the Application may collect and store additional information automatically, such as:
+
+- Device registration data (e.g., the type of mobile device you use, your mobile device’s unique device or advertising ID, IP address, operating system and browser type)
+- Device settings (e.g., language preference)
+- Mobile carrier
+- Information about how you use the Application (for example, how many times you use the Application each day)
+- Requested and referring URLs
+- Location data collected through your device (including, for example, precise location data such as GPS and WiFi information)
+
+We and our service providers may use this information to operate and improve the Application, our other sites, applications, products and services, or to contact you from time to time to provide you with important information, notices and marketing promotions. The Application may allow third parties to collect any of the information described above in order to provide parts of our services as well as to provide analytical data about your use of the Application back to us.
+
+**Advertising.** The Application is supported via advertising, and collects data to help the Application serve and display ads. We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. We work with advertisers and third party advertising networks, who need to know how you interact with the Application and your device, which helps us keep the cost of the Application low or free. Advertisers and advertising networks may access and use the information made available by you or collected by the Application, including the unique device or advertising identifier associated with your device and your precise location information, in order to help analyze and serve targeted advertising on the Application and elsewhere (including third-party sites and applications). We encourage you to review your device and Application settings to ensure they are consistent with your preferences, including with respect to the collection and use of such information. We may also share encrypted versions of information we have collected in order to enable our partners to append other available information about you for analysis or advertising-related use (on or off the Application, including third-party sites and applications). You may be able to stop further collection of certain information by the Application by updating your applicable device or Application settings, or you may uninstall the Application.
+
+**Third party and social services.** The Application may utilize social networking or “share functionality” or may contain links to third party sites that are not owned or controlled by Paige Software Co.. Paige Software Co. has no control over, and assumes no responsibility for, any share functionality or the content, privacy policies, or practices of any third-party site. You are subject to the policies of those third parties when and where applicable. By using the Application, you expressly relieve Paige Software Co. from any and all liability arising from your use of any share functionality or third-party site accessed from the Application. We also may allow you to use Facebook Login to leverage your existing Facebook account to access features of the Application. Please review your privacy settings on your Facebook account, as those settings determine what information may be made available to us when you access the Application.
+
+**Children.** We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at paigesoftware@gmail.com
 
 <br>
 
-## Log Data
+## II.  Sharing Information. 
+We may share the information you provide or that we collect:
+
+- with advertisers, third-party advertising networks and analytics companies as described above;
+- to improve your experience with our Applications, products and services;
+- when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or other security issues, or respond to a government request, a subpoena or similar legal process;
+- with our service providers who work on our behalf, and do not have an independent right to use the information we disclose to them; for example, they may handle credit card processing, data management, feature administration, email distribution, market research, information analysis, and promotions management; and
+- if we or the Application is involved in a merger, acquisition, or sale of all or a portion of applicable stock or assets.
+
+<br>
+
+## III.  Managing Your Information.
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
 <br>
 
-## Cookies
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
-<br>
-
-## Service Providers
-I may employ third-party companies and individuals due to the following reasons:
-
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on my behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
-<br>
-
-## Links to Other Sites
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-<br>
-
-## Changes to This Privacy Policy
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. This policy is effective as of 2020-06-29
-
-<br>
-
-## Contact Me
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at +821080133112 or email me at paigeshinsoftware@gmail.com
+## IV.  Updates and Contact.
+This Mobile Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to this Mobile Privacy Policy by posting the new version in or via the Application. Please consult this Mobile Privacy Policy regularly for any changes. For questions about this Mobile Privacy Policy, please contact us at paigesoftware@gmail.com. We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns. 
