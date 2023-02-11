@@ -5,9 +5,10 @@ include_in_header: false
 ---
 
 **Last updated**  
-Sept 12, 2014
+Sept 4, 2022
 
 # Paige Software Co. MOBILE PRIVACY POLICY
+
 By using this application, or any products, services, sites, features or functionality associated therewith (collectively, the “Application”), you agree to be bound by this Paige Software Co. Mobile Privacy Policy (“Mobile Privacy Policy”) in addition to such other Paige Software Co. privacy policies or terms of use made available to you in connection with the Application or any web-based version of the Application. Certain features of the Application may require you to be a registered member or provide personal information.
 
 This Mobile Privacy Policy describes how the Application collects, uses, shares and manages your information.
@@ -15,6 +16,7 @@ This Mobile Privacy Policy describes how the Application collects, uses, shares 
 <br>
 
 ## I.  Data Collection and Use.
+
 We may collect and store some or all of the following information you make available to us:
 
 - Information you provide when you contact us for help
@@ -39,6 +41,7 @@ We and our service providers may use this information to operate and improve the
 <br>
 
 ## II.  Sharing Information. 
+
 We may share the information you provide or that we collect:
 
 - with advertisers, third-party advertising networks and analytics companies as described above;
@@ -50,9 +53,11 @@ We may share the information you provide or that we collect:
 <br>
 
 ## III.  Managing Your Information.
+
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
 <br>
 
 ## IV.  Updates and Contact.
-This Mobile Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to this Mobile Privacy Policy by posting the new version in or via the Application. Please consult this Mobile Privacy Policy regularly for any changes. For questions about this Mobile Privacy Policy, please contact us at paigesoftware@gmail.com. We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns. 
+
+This Mobile Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to this Mobile Privacy Policy by posting the new version in or via the Application. Please consult this Mobile Privacy Policy regularly for any changes. For questions about this Mobile Privacy Policy, please contact us at paigesoftware@gmail.com. We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns.
