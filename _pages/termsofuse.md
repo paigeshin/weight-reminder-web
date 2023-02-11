@@ -27,7 +27,7 @@ By creating an Account on our service, you agree to subscribe to newsletters, ma
 
 Some parts of the Service are billed on a subscription basis ("Subscription(s)"). You will be billed in advance on a recurring and periodic basis ("Billing Cycle"). Billing cycles are set on a monthly basis.
 
-At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or Monkey Taps Inc cancels it. You may cancel your Subscription renewal either through your iTunes account management page or by contacting Apple, Inc customer support team.
+At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or Paige Software Inc cancels it. You may cancel your Subscription renewal either through your iTunes account management page or by contacting Apple, Inc customer support team.
 
 <br>
 
@@ -73,17 +73,17 @@ You may not use as a username the name of another person or entity or that is no
 
 ## Intellectual Property
 
-The Service and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of Monkey Taps Inc and its licensors. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Monkey Taps Inc.
+The Service and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of Paige Software Inc and its licensors. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Paige Software Inc.
 
 <br>
 
 ## Links To Other Web Sites
 
-Our Service may contain links to third party web sites or services that are not owned or controlled by Monkey Taps Inc.
+Our Service may contain links to third party web sites or services that are not owned or controlled by Paige Software Inc.
 
-Monkey Taps Inc has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
+Paige Software Inc has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
 
-You acknowledge and agree that Monkey Taps Inc shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third party web sites or services.
+You acknowledge and agree that Paige Software Inc shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third party web sites or services.
 
 We strongly advise you to read the terms and conditions and privacy policies of any third party web sites or services that you visit.
 
@@ -101,13 +101,13 @@ All provisions of the Terms which by their nature should survive termination sha
 
 ## Indemnification
 
-You agree to defend, indemnify and hold harmless Monkey Taps Inc and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the Service, by you or any person using your account and password; b) a breach of these Terms, or c) Content posted on the Service.
+You agree to defend, indemnify and hold harmless Paige Software Inc and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the Service, by you or any person using your account and password; b) a breach of these Terms, or c) Content posted on the Service.
 
 <br>
 
 ## Limitation Of Liability
 
-In no event shall Monkey Taps Inc, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+In no event shall Paige Software Inc, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
 
 <br>
 
@@ -115,7 +115,7 @@ In no event shall Monkey Taps Inc, nor its directors, employees, partners, agen
 
 Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
 
-Monkey Taps Inc its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
+Paige Software Inc its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
 
 <br>
 
@@ -143,6 +143,6 @@ By continuing to access or use our Service after any revisions become effective,
 
 ## Contact Us
 
-If you have any questions about these Terms, please contact us. paigesoftware@gmail.com
+If you have any questions about these Terms, please contact us. paigesoftware@gmail.com.
 
 <br>
